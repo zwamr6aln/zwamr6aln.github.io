@@ -25,6 +25,13 @@
             border-radius: 4px;
         }
 
+        pre {
+            overflow-x: auto;
+            border: 1px solid gray;
+            padding: 12px;
+            border-radius: 8px;
+        }
+
         table {
             border-collapse: collapse;
         }
@@ -65,24 +72,23 @@
 
     <main>
         <section>
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="ja"&gt;
+</pre>
+        </section>
+        <section>
             <h2>head</h2>
-            <blockquote>
-                &lt;meta charset="utf-8"&gt;
-            </blockquote>
-            <blockquote>
-                &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
-            </blockquote>
-            <blockquote>
-                &lt;title&gt;PLACEHLDER&lt;/title&gt;
-            </blockquote>
-            <blockquote>
-                &lt;meta name="description" content="PLACEHLDER"&gt;
-            </blockquote>
+<pre>
+&lt;meta charset="utf-8"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+&lt;title&gt;PLACEHLDER&lt;/title&gt;
+&lt;meta name="description" content="PLACEHLDER"&gt;
+</pre>
         </section>
 
         <section>
             <h2>body</h2>
-            <blockquote>
 <pre>
 body {
     font-family: sans-serif;
@@ -91,34 +97,29 @@ body {
     padding: 16px;
 }
 </pre>
-            </blockquote>
         </section>
 
         <section>
             <h2>img</h2>
-            <img src="🌃.png" alt="Describe image here">
+            <img src="🌃.png" alt="img">
             <figure>
-                <img src="🏝.png" alt="fugure">
-                <figcaption>figcaptionです。</figcaption>
+                <img src="🏝.png" alt="fugure/img">
+                <figcaption>figcaption</figcaption>
             </figure>
-            <blockquote>
-                img {
-                    max-width: 100%;
-                }
-            </blockquote>
+<pre>
+img {
+    max-width: 100%;
+}
+</pre>
         </section>
 
         <section style="display: flow-root;">
             <h3>flow</h3>
-            <img style="float: left; max-width: 40%; margin-right: 16px;" , src="🌳.png" alt="Describe image here">
+            <img style="float: left; max-width: 40%; margin-right: 16px;" , src="🌳.png" alt="float img">
             <p>placeholder</p>
         </section>
-        <blockquote>
-            section style="display: flow-root;"
-        </blockquote>
-        <blockquote>
-            img style="float: left; max-width: 40%; margin-right: 16px;"
-        </blockquote>
+        <pre>section style="display: flow-root;"</pre>
+        <pre>img style="float: left; max-width: 40%; margin-right: 16px;"</pre>
 
         <section>
             <h3>table</h3>
@@ -141,7 +142,6 @@ body {
                 </tr>
             </table>
 
-            <blockquote>
 <pre>
 table {
     border-collapse: collapse;
@@ -152,12 +152,10 @@ th {
     padding: 8px;
 }
 </pre>
-            </blockquote>
         </section>
 
         <section>
             <h2>blockquote, q</h2>
-            <blockquote>
 <pre>
 blockquote,
 q {
@@ -166,12 +164,10 @@ q {
     border-radius: 4px;
 }
 </pre>
-            </blockquote>
         </section>
 
         <section>
             <h2>Dark mode</h2>
-            <blockquote>
 <pre>
 @media (prefers-color-scheme: dark) {
     :root {
@@ -195,7 +191,17 @@ q {
     }
 }
 </pre>
-            </blockquote>
+        </section>
+        <section>
+            <h2>flex</h2>
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+                <p>PLACEHOLDER1</p>
+                <p>PLACEHOLDER2</p>
+                <p>PLACEHOLDER3</p>
+            </div>
+<pre>
+display: flex; flex-wrap: wrap; justify-content: space-around;
+</pre>
         </section>
         <hr>
 
