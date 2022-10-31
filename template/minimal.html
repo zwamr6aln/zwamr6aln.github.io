@@ -94,13 +94,14 @@ PLACEHOLDER
         <pre>
 &lt;meta charset="utf-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
-&lt;title&gt;PLACEHLDER&lt;/title&gt;
-&lt;meta name="description" content="PLACEHLDER"&gt;
+&lt;title&gt;PLACEHOLDER&lt;/title&gt;
+&lt;meta name="description" content="PLACEHOLDER"&gt;
+&lt;style&gt;PLACEHOLDER&lt;/style&gt;
 </pre>
     </section>
 
     <section>
-        <h2>body</h2>
+        <h2>style/body</h2>
         <pre>
 body {
     font-family: sans-serif;
@@ -112,7 +113,7 @@ body {
     </section>
 
     <section>
-        <h2>img</h2>
+        <h2>style/img</h2>
         <img src="🌃.png" alt="img">
         <figure>
             <img src="🏝.png" alt="fugure/img">
@@ -125,8 +126,35 @@ img {
 </pre>
     </section>
 
+    <section>
+        <h2>style/Dark mode</h2>
+        <pre>
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</pre>
+    </section>
+
     <section style="display: flow-root;">
-        <h3>flow</h3>
+        <h2>style/flow</h2>
         <img style="float: left; max-width: 40%; margin-right: 16px;" , src="🌳.png" alt="float img">
         <p>placeholder</p>
     </section>
@@ -134,7 +162,7 @@ img {
     <pre>img style="float: left; max-width: 40%; margin-right: 16px;"</pre>
 
     <section>
-        <h3>table</h3>
+        <h2>style/table</h2>
         <table>
             <caption>caption</caption>
             <tr>
@@ -167,7 +195,7 @@ th {
     </section>
 
     <section>
-        <h2>blockquote</h2>
+        <h2>style/blockquote</h2>
         <blockquote>This is placeholder.</blockquote>
         <pre>
 blockquote {
@@ -176,7 +204,7 @@ blockquote {
     border-radius: 4px;
 }
 </pre>
-        <h2>q</h2>
+        <h2>style/q</h2>
         This is <q>placeholder</q>.
         <pre>
 q {
@@ -186,35 +214,8 @@ q {
 }
 </pre>
     </section>
-
     <section>
-        <h2>Dark mode</h2>
-        <pre>
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primaryColor: white;
-        --backgroundColor: #212121;
-        --primaryAccentColor: DeepSkyBlue;
-        --secondaryAccentColor: DarkCyan;
-    }
-
-    body {
-        color: var(--primaryColor);
-        background-color: var(--backgroundColor);
-    }
-
-    a:link {
-        color: var(--primaryAccentColor);
-    }
-
-    a:visited {
-        color: var(--secondaryAccentColor);
-    }
-}
-</pre>
-    </section>
-    <section>
-        <h2>pre</h2>
+        <h2>style/pre</h2>
         <pre>
 pre {
     overflow-x: auto;
