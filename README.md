@@ -22,6 +22,8 @@
 ## Others
 [__my html template__](template)
 
+[minimal template](template/minimal)
+
 [sitemap.xml](sitemap.xml)
 
 ![image](template/🌃.png)
