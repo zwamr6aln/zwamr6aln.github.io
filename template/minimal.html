@@ -18,9 +18,14 @@
             max-width: 100%;
         }
 
-        blockquote,
-        q {
+        blockquote {
             padding: 8px;
+            background-color: #80808020;
+            border-radius: 4px;
+        }
+
+        q {
+            padding: 6px;
             background-color: #80808020;
             border-radius: 4px;
         }
@@ -29,7 +34,7 @@
             overflow-x: auto;
             border: 1px solid gray;
             padding: 12px;
-            border-radius: 8px;
+            border-radius: 6px;
         }
 
         table {
@@ -155,11 +160,20 @@ th {
     </section>
 
     <section>
-        <h2>blockquote, q</h2>
+        <h2>blockquote</h2>
+        <blockquote>This is placeholder.</blockquote>
         <pre>
-blockquote,
-q {
+blockquote {
     padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+</pre>
+        <h2>q</h2>
+        This is <q>placeholder</q>.
+        <pre>
+q {
+    padding: 6px;
     background-color: #80808020;
     border-radius: 4px;
 }
