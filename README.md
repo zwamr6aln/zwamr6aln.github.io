@@ -24,4 +24,4 @@
 
 [sitemap.xml](sitemap.xml)
 
-![image](🌃.png)
+![image](template/🌃.png)
