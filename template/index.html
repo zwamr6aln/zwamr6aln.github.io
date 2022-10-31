@@ -280,19 +280,34 @@
       </details>
 
       <hr>
-
-      <svg x=0 y=0 width=100 height=60>
+      <h3>svg</h3>
+      <svg width=300 height=60>
         <line x1="10" y1="40" x2="40" y2="50" stroke=currentColor />
         <rect x="5" y="5" width="20" height="20" fill=currentColor />
         <polygon points="50 10, 80 30, 50 50, 20 30" fill="#9999ff80" />
         <circle cx="90" cy="20" r="15" fill=currentColor />
         <text x="50" y="30" text-anchor="middle" fill=currentColor>svg</text>
+        <svg x=150 y=0>
+          <path d="M 5 20 L 20 5 L 35 20 L 20 25" stroke=currentColor fill="gray" stroke-width="2" />
+          <path d="M 40 5 S 130 20 40 35" stroke="gray" fill="transparent" stroke-width="2" />
+          <path d="M 40 5 C 130 15 130 25 40 35" stroke=currentColor fill="transparent" stroke-width="2" />
+        </svg>
       </svg>
-      <svg x=0 y=0 width=150 height=60>
-        <path d="M 5 20 L 20 5 L 35 20 L 20 25" stroke=currentColor fill="gray" stroke-width="2" />
-        <path d="M 40 5 S 130 20 40 35" stroke="gray" fill="transparent" stroke-width="2" />
-        <path d="M 40 5 C 130 15 130 25 40 35" stroke=currentColor fill="transparent" stroke-width="2" />
-      </svg>
+      <pre>
+&lt;svg width=300 height=60&gt;
+  &lt;line x1="10" y1="40" x2="40" y2="50" stroke=currentColor /&gt;
+  &lt;rect x="5" y="5" width="20" height="20" fill=currentColor /&gt;
+  &lt;polygon points="50 10, 80 30, 50 50, 20 30" fill="#9999ff80" /&gt;
+  &lt;circle cx="90" cy="20" r="15" fill=currentColor /&gt;
+  &lt;text x="50" y="30" text-anchor="middle" fill=currentColor&gt;svg&lt;/text&gt;
+  &lt;svg x=150 y=0&gt;
+    &lt;path d="M 5 20 L 20 5 L 35 20 L 20 25" stroke=currentColor fill="gray" stroke-width="2" /&gt;
+    &lt;path d="M 40 5 S 130 20 40 35" stroke="gray" fill="transparent" stroke-width="2" /&gt;
+    &lt;path d="M 40 5 C 130 15 130 25 40 35" stroke=currentColor fill="transparent" stroke-width="2" /&gt;
+  &lt;/svg&gt;
+&lt;/svg&gt;
+</pre>
+      <hr>
 
       <pre class="notoemoji">import SwiftUI
 
@@ -332,15 +347,15 @@ struct ExampleApp: App {
     <hr>
 
     <!-- Video Player -->
-    <!-- <video controls width="100%">
+    <video controls width="100%">
       <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
       Sorry, your browser doesn't support embedded videos.
-    </video> -->
+    </video>
 
     <!-- GIF Image -->
-    <!-- <img
+    <img
       src="https://raw.githubusercontent.com/FlipByBlink/FlipByBlink_ver3/main/FlipByBlink_ver3/Assets.xcassets/🄳emo.dataset/🄳emo.GIF"
-      alt="Gif image"> -->
+      alt="Gif image">
 
     <figure>
       <img
