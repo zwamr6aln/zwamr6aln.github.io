@@ -54,22 +54,6 @@
       border-radius: 4px;
     }
 
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --primaryColor: white;
-        --backgroundColor: #212121;
-        --primaryAccentColor: DeepSkyBlue;
-        --secondaryAccentColor: DarkCyan;
-      }
-      body {
-        color: var(--primaryColor);
-        background-color: var(--backgroundColor);
-        /* background-color: lightgray; */
-      }
-      a:link { color: var(--primaryAccentColor); }
-      a:visited { color: var(--secondaryAccentColor); }
-    }
-
     table {
       border-collapse: collapse;
       border: 2px solid gray;
@@ -95,6 +79,42 @@
 
     .notoemoji {
       font-family: 'Noto Emoji', sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+      }
+      body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+        /* background-color: lightgray; */
+      }
+      a:link { color: var(--primaryAccentColor); }
+      a:visited { color: var(--secondaryAccentColor); }
+    }
+
+    @media print {
+      section {
+        orphans: 2;
+        widows: 2;
+      }
+
+      table {
+        break-inside: avoid;
+      }
+
+      h2 {
+        break-before: page;
+        /* break-after: page; */
+      }
+
+      @page {
+        margin: 32px;
+      }
     }
   </style>
 </head>
@@ -219,6 +239,26 @@
           <th>tr/th</th>
           <th>tr/th</th>
           <th>tr/th</th>
+        </tr>
+        <tr>
+          <td>tr/td</td>
+          <td>tr/td</td>
+          <td>tr/td</td>
+        </tr>
+        <tr>
+          <td>tr/td</td>
+          <td>tr/td</td>
+          <td>tr/td</td>
+        </tr>
+        <tr>
+          <td>tr/td</td>
+          <td>tr/td</td>
+          <td>tr/td</td>
+        </tr>
+        <tr>
+          <td>tr/td</td>
+          <td>tr/td</td>
+          <td>tr/td</td>
         </tr>
         <tr>
           <td>tr/td</td>
