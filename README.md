@@ -20,11 +20,11 @@
 [TapTemperature ホームページ ja](TapTemperature/ja)
 
 ## Others
-[__my html template__](template)
+[__my template page__](template)
 
-[minimal template](template/minimal)
+[my minimal template page](template/minimal)
 
-[sample](template/sample)
+[sample page](template/sample)
 
 [sitemap.xml](sitemap.xml)
 
