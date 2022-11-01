@@ -176,39 +176,43 @@
       </p>
     </section>
 
+    <hr>
+
     <section>
-      <h2>display: flex; flex-wrap: wrap; justify-content: space-around;</h2>
-      <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+      <h1>h1です。</h1>
+      <h2>h2です。</h2>
+      <h3>h3です。</h3>
+      <h4>h4です。</h4>
+      <h5>h5です。</h5>
+      <h6>h6です。</h6>
+
+      <p>
         <strong>strong</strong>
-        <!-- emphasized -->
         <em>em</em>
         <u>u</u>
         <q cite="https://example.com">q</q>
         <del>del</del>
         <s>s</s>
         <small>small</small>
-        <!-- insert -->
         <ins>ins</ins>
-        <!-- programming-code / pre-formatted -->
         <b>b</b>
         <i>i</i>
-      </div>
-    </section>
-    <section>
-      <code>code</code>
-      sub<sub>sub</sub>
-      sup<sup>sup</sup>
-      <ruby>
-        ruby
-        <rt>rt</rt>
-      </ruby>
-    </section>
-    <section>
-      <h2>h2です。</h2>
-      <h3>h3です。</h3>
-      <h4>h4です。</h4>
-      <h5>h5です。</h5>
-      <h6>h6です。</h6>
+        <code>code</code>
+        sub<sub>sub</sub>
+        sup<sup>sup</sup>
+        <ruby>
+          ruby
+          <rt>rt</rt>
+        </ruby>
+      </p>
+
+      <p>
+        <a href="https://validator.w3.org" target="blank">The W3C Markup Validation Service</a>
+      </p>
+
+      <p>
+        <a href="https://jigsaw.w3.org/css-validator/" target="blank">W3C CSS 検証サービス</a>
+      </p>
 
       <pre>pre pre  pre   pre
           pre
@@ -250,8 +254,11 @@
         <dd>dl/dd</dd>
       </dl>
 
+      <hr>
+
+      <h4>table</h4>
       <table>
-        <caption>table, caption</caption>
+        <caption>caption</caption>
         <colgroup>
           <col style="background-color:#00000020;">
         </colgroup>
@@ -274,13 +281,23 @@
 
       <hr>
 
+      <h4>flex</h4>
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+        <p>PLACEHOLDER1</p>
+        <p>PLACEHOLDER2</p>
+        <p>PLACEHOLDER3</p>
+      </div>
+
+      <hr>
+
       <details>
         <summary>details/summary</summary>
         <p>TEXT</p>
       </details>
 
       <hr>
-      <h3>svg</h3>
+
+      <h4>svg</h4>
       <svg width=300 height=60>
         <line x1="10" y1="40" x2="40" y2="50" stroke=currentColor />
         <rect x="5" y="5" width="20" height="20" fill=currentColor />
@@ -307,8 +324,10 @@
   &lt;/svg&gt;
 &lt;/svg&gt;
 </pre>
+
       <hr>
 
+      <h4>font-family</h4>
       <pre class="notoemoji">import SwiftUI
 
 @main
@@ -329,13 +348,15 @@ struct ExampleApp: App {
     <div style="color: red; font-size: 20px;">
       inline style: style="color: red; font-size: 20px;"
     </div>
+
     <section>
       <h2>Contact</h2>
       <address>draw_curare_0k@icloud.com</address>
     </section>
     
-    <!-- ~/index.html#privacy-policy-for-appstore -->
     <hr>
+
+    <!-- ~/index.html#privacy-policy-for-appstore -->
     <section>
       <h2 id="privacy-policy-for-appstore">
         Privacy policy
@@ -344,15 +365,14 @@ struct ExampleApp: App {
         プライバシーポリシー本文です。
       </p>
     </section>
+
     <hr>
 
-    <!-- Video Player -->
     <video controls width="100%">
       <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
       Sorry, your browser doesn't support embedded videos.
     </video>
 
-    <!-- GIF Image -->
     <img
       src="https://raw.githubusercontent.com/FlipByBlink/FlipByBlink_ver3/main/FlipByBlink_ver3/Assets.xcassets/🄳emo.dataset/🄳emo.GIF"
       alt="Gif image">
@@ -365,8 +385,13 @@ struct ExampleApp: App {
       <figcaption>base64のjpg画像(2KB)です。</figcaption>
     </figure>
 
+    <hr>
+
+    <h4>object</h4>
     <object data="../README.md" type="text/plain"></object>
     <object data="index.html" type="text/plain"></object>
+
+    <hr>
   </main>
 
   <footer style="margin-top: 120px;">
