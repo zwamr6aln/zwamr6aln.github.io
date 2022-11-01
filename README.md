@@ -5,6 +5,18 @@
 
 ---
 
+
+[__my template page__](template)
+
+[my minimal template page](template/minimal)
+
+[sample page](template/sample)
+
+[sitemap.xml](sitemap.xml)
+
+
+---
+
 ## TapWeight site list
 [TapWeight ホームページ en](TapWeight/en)
 
@@ -14,18 +26,20 @@
 
 [markdown test](TapWeight/mdtest)
 
+
 ## TapTemperature site list
 [TapTemperature ホームページ en](TapTemperature/en)
 
 [TapTemperature ホームページ ja](TapTemperature/ja)
 
-## Others
-[__my template page__](template)
 
-[my minimal template page](template/minimal)
+### Apps
+[FadeInAlarm](Others/FadeInAlarm.md)
 
-[sample page](template/sample)
+[FlipByBlink](Others/FlipByBlink.md)
 
-[sitemap.xml](sitemap.xml)
+[LockInNote](Others/LockInNote.md)
 
-![image](template/🌃.png)
+[MemorizeWidget](Others/MemorizeWidget.md)
+
+[Plain将棋盤](Others/Plain将棋盤.md)
