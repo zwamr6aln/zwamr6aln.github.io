@@ -24,6 +24,8 @@
 
 [minimal template](template/minimal)
 
+[sample](template/sample)
+
 [sitemap.xml](sitemap.xml)
 
 ![image](template/🌃.png)

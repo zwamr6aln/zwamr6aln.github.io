@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>sample</title>
+    <meta name="description" content="これはsampleです。">
+    <link rel="icon" href="🌳.png">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet">
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primaryColor: white;
+                --backgroundColor: #212121;
+                --primaryAccentColor: DeepSkyBlue;
+                --secondaryAccentColor: DarkCyan;
+            }
+
+            body {
+                color: var(--primaryColor);
+                background-color: var(--backgroundColor);
+                /* background-color: lightgray; */
+            }
+
+            a:link {
+                color: var(--primaryAccentColor);
+            }
+
+            a:visited {
+                color: var(--secondaryAccentColor);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>h1です。</h1>
+    <h2>h2です。</h2>
+    <h3>h3です。</h3>
+    <h4>h4です。</h4>
+    <h5>h5です。</h5>
+    <h6>h6です。</h6>
+
+    <p>p</p>
+
+    <img src="🌃.png" alt="img">
+
+    <figure>
+        <img src="🏝.png" alt="figure/img">
+        <figcaption>figcaption</figcaption>
+    </figure>
+
+    <hr>
+    <div style="display: flow-root;">
+        <h4>float</h4>
+        <img style="float: left; max-width: 40%; margin-right: 16px;" , src="🐎.png" alt="Describe image here">
+        <p>
+            placeholder
+        </p>
+    </div>
+    <hr>
+
+    <p>
+        <strong>strong</strong>
+        <em>em</em>
+        <u>u</u>
+        <q cite="https://example.com">q</q>
+        <del>del</del>
+        <s>s</s>
+        <small>small</small>
+        <ins>ins</ins>
+        <b>b</b>
+        <i>i</i>
+        <code>code</code>
+        sub<sub>sub</sub>
+        sup<sup>sup</sup>
+        <ruby>
+            ruby
+            <rt>rt</rt>
+        </ruby>
+    </p>
+
+    <p>
+        <a href="https://validator.w3.org" target="blank">The W3C Markup Validation Service</a>
+    </p>
+
+    <p>
+        <a href="https://jigsaw.w3.org/css-validator/" target="blank">W3C CSS 検証サービス</a>
+    </p>
+
+    <pre>pre pre  pre   pre
+        pre
+        pre</pre>
+
+    <blockquote cite="https://example.com">blockquote</blockquote>
+
+    <hr>
+
+    <h4>文字参照</h4>
+    <table>
+        <tr>
+            <td>&lt;</td>
+            <td>&amp;lt;</td>
+        </tr>
+        <tr>
+            <td>&gt;</td>
+            <td>&amp;gt;</td>
+        </tr>
+        <tr>
+            <td>&amp;</td>
+            <td>&amp;amp;</td>
+        </tr>
+        <tr>
+            <td>&quot;</td>
+            <td>&amp;quot;</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <ul>
+        <li>li</li>
+        <li>li</li>
+    </ul>
+    <ol>
+        <li>li</li>
+        <li>li</li>
+    </ol>
+    <dl>
+        <dt>dt</dt>
+        <dd>dd</dd>
+        <dt>dt</dt>
+        <dd>dd</dd>
+    </dl>
+
+    <hr>
+
+    <h4>table</h4>
+    <table>
+        <caption>caption</caption>
+        <tr>
+            <th>th</th>
+            <th>th</th>
+            <th>th</th>
+        </tr>
+        <tr>
+            <td>td</td>
+            <td>td</td>
+            <td>td</td>
+        </tr>
+        <tr>
+            <td>td</td>
+            <td>td</td>
+            <td>td</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h4>flex</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+        <p>PLACEHOLDER1</p>
+        <p>PLACEHOLDER2</p>
+        <p>PLACEHOLDER3</p>
+    </div>
+
+    <hr>
+
+    <details>
+        <summary>details/summary</summary>
+        <p>TEXT</p>
+    </details>
+
+    <hr>
+
+    <h4>svg</h4>
+    <svg width=300 height=60>
+        <line x1="10" y1="40" x2="40" y2="50" stroke=currentColor />
+        <rect x="5" y="5" width="20" height="20" fill=currentColor />
+        <polygon points="50 10, 80 30, 50 50, 20 30" fill="#9999ff80" />
+        <circle cx="90" cy="20" r="15" fill=currentColor />
+        <text x="50" y="30" text-anchor="middle" fill=currentColor>svg</text>
+        <svg x=150 y=0>
+            <path d="M 5 20 L 20 5 L 35 20 L 20 25" stroke=currentColor fill="gray" stroke-width="2" />
+            <path d="M 40 5 S 130 20 40 35" stroke="gray" fill="transparent" stroke-width="2" />
+            <path d="M 40 5 C 130 15 130 25 40 35" stroke=currentColor fill="transparent" stroke-width="2" />
+        </svg>
+    </svg>
+    <pre>
+&lt;svg width=300 height=60&gt;
+  &lt;line x1="10" y1="40" x2="40" y2="50" stroke=currentColor /&gt;
+  &lt;rect x="5" y="5" width="20" height="20" fill=currentColor /&gt;
+  &lt;polygon points="50 10, 80 30, 50 50, 20 30" fill="#9999ff80" /&gt;
+  &lt;circle cx="90" cy="20" r="15" fill=currentColor /&gt;
+  &lt;text x="50" y="30" text-anchor="middle" fill=currentColor&gt;svg&lt;/text&gt;
+  &lt;svg x=150 y=0&gt;
+    &lt;path d="M 5 20 L 20 5 L 35 20 L 20 25" stroke=currentColor fill="gray" stroke-width="2" /&gt;
+    &lt;path d="M 40 5 S 130 20 40 35" stroke="gray" fill="transparent" stroke-width="2" /&gt;
+    &lt;path d="M 40 5 C 130 15 130 25 40 35" stroke=currentColor fill="transparent" stroke-width="2" /&gt;
+  &lt;/svg&gt;
+&lt;/svg&gt;
+</pre>
+
+    <hr>
+
+    <h4>font-family: 'Noto Emoji'</h4>
+    <pre style="font-family: 'Noto Emoji', sans-serif;">
+import SwiftUI
+
+@main
+struct ExampleApp: App {
+    @StateObject private var 📱 = 📱AppModel()
+    @StateObject private var 🛒 = 🛒StoreModel(id: "PLACEHOLDER.adfree")
+    
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environmentObject(📱)
+                .environmentObject(🛒)
+        }
+    }
+}</pre>
+
+    <hr>
+
+    <section>
+        <h4>address</h4>
+        <address>draw_curare_0k@icloud.com</address>
+    </section>
+
+    <hr>
+
+    <video controls width="100%">
+        <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
+        Sorry, your browser doesn't support embedded videos.
+    </video>
+
+    <hr>
+
+    <audio controls src="/media/cc0-audio/t-rex-roar.mp3">audio</audio>
+
+    <hr>
+
+    <img src="https://raw.githubusercontent.com/FlipByBlink/FlipByBlink_ver3/main/FlipByBlink_ver3/Assets.xcassets/🄳emo.dataset/🄳emo.GIF"
+        alt="Gif image">
+
+    <hr>
+
+    <figure>
+        <img src="data:image/jpeg;base64,
+        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
+        alt=" leaf">
+        <figcaption>base64のjpg画像(2KB)です。</figcaption>
+    </figure>
+
+    <hr>
+
+    <h4>object</h4>
+    <object data="../README.md" type="text/plain"></object>
+    <object data="index.html" type="text/plain"></object>
+</body>
+
+</html>
