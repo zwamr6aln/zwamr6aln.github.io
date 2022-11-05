@@ -2,8 +2,5 @@
 # title: title(placeholder)
 # description: description(placeholder)
 
-# remote_theme: minimal
-
 plugins:
   - jekyll-sitemap
-  # - jekyll-remote-theme
