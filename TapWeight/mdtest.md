@@ -1,7 +1,6 @@
 
 # iPhone App TapWeight / 体重登録 for "Health"
 
-<!-- ![Icon](Icon.png) -->
 <img src="Icon.png" width="180">
 
 ## AppStore link
@@ -11,6 +10,11 @@
 ## Description
 
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
+
+<img src="Screenshot1.png" width="300">
+<img src="Screenshot2.png" width="300">
+<img src="Screenshot3.png" width="300">
+<img src="Demo.gif" width="300">
 
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
