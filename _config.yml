@@ -1,8 +1,10 @@
 
-title: title(placeholder)
-description: description(placeholder)
+# title: title(placeholder)
+# description: description(placeholder)
 
 # remote_theme: minimal
+
+default_lang: 'ja'
 
 plugins:
   - jekyll-sitemap
