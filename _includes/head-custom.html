@@ -2,7 +2,25 @@
     /* h1:first-child {
         display: none;
     } */
-    h2 {
-        color: crimson;
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --primaryColor: white;
+            --backgroundColor: #212121;
+            --primaryAccentColor: DeepSkyBlue;
+            --secondaryAccentColor: DarkCyan;
+        }
+
+        body {
+            color: var(--primaryColor);
+            background-color: var(--backgroundColor);
+        }
+
+        a:link {
+            color: var(--primaryAccentColor);
+        }
+
+        a:visited {
+            color: var(--secondaryAccentColor);
+        }
     }
 </style>
