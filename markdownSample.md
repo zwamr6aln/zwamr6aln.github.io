@@ -1,6 +1,6 @@
 ---
 title: Markdown Sample Page
-descriptioon: from https://pages-themes.github.io/primer/
+descriptioon: from primer github page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
