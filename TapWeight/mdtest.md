@@ -2,7 +2,7 @@
 # iPhone App TapWeight / 体重登録 for "Health"
 
 ![Icon](Icon.png)
-<img src="Icon.png" srcset="Icon.png x2">
+<img srcset="Icon.png x2">
 
 ## AppStore link
 
