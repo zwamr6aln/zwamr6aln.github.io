@@ -1,18 +1,19 @@
 
 # iPhone App TapWeight / 体重登録 for "Health"
 
+<img src="Icon.png" width="80">
+
 <a href="https://apps.apple.com/app/id1624159721" target="blank">
-    <img src="Icon.png" width="100">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
 </a>
 
 ## Description
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
-<img src="Screenshot1.png" width="270">
-<img src="Screenshot2.png" width="270">
-<img src="Screenshot3.png" srcset="Screenshot3.png 2x" width="270">
-<img src="Demo.gif" width="270">
+<img src="Screenshot1.png" width="150">
+<img src="Screenshot2.png" width="150">
+<img src="Screenshot3.png" width="150">
+<img src="Demo.gif" width="150">
 
 People frequently measure their weight and body fat percentage daily using a scale. Many iPhone users register their weight and body fat percentage data on "Health" app. The best solution is to use a smart scale that works with "Health" app and automatically stores measurements, but they are expensive and inaccessible. Manual data registration is possible in "Health" app, but "Health" app is not designed for daily manual data registration. Therefore, manually entering data that occur continuously daily, such as weight measurements, is a very time-consuming and stressful experience. This app was developed to solve such problems.
 
