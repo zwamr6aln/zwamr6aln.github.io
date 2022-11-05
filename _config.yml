@@ -2,6 +2,7 @@
 # title: title(placeholder)
 # description: description(placeholder)
 lang: ja
+name: test name
 
 plugins:
   - jekyll-sitemap
