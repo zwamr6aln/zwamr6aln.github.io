@@ -4,8 +4,6 @@
 
 # remote_theme: minimal
 
-default_lang: 'ja'
-
 plugins:
   - jekyll-sitemap
   # - jekyll-remote-theme
