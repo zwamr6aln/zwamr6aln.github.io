@@ -1,10 +1,11 @@
 
+# h1です。
+
 これは仮のGitHubPagesです。
 
 [GitHub link](https://github.com/zwamr6aln/zwamr6aln.github.io)
 
 ---
-
 
 [__my template page__](template)
 
@@ -14,8 +15,10 @@
 
 [sitemap.xml](sitemap.xml)
 
+[_includes/head-custom.html](_includes/head-custom.html)
 
 ---
+
 
 ## TapWeight site list
 [TapWeight ホームページ en](TapWeight/en)
