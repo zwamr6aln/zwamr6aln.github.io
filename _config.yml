@@ -4,8 +4,6 @@
 
 # remote_theme: minimal
 
-layout: null
-
 plugins:
   - jekyll-sitemap
   # - jekyll-remote-theme
