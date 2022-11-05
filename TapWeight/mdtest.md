@@ -2,9 +2,9 @@
 # iPhone App TapWeight / 体重登録 for "Health"
 
 ![Icon](Icon.png)
-<img src="Icon.png" srcset="Icon.png 1x">
-<img src="Icon.png" srcset="Icon.png 2x">
-<img src="Icon.png" srcset="Icon.png 3x">
+<img srcset="Icon.png 1x" src="Icon.png">
+<img srcset="Icon.png 2x" src="Icon.png">
+<img srcset="Icon.png 3x" src="Icon.png">
 <img srcset="Icon.png 1x">
 <img srcset="Icon.png 2x">
 <img srcset="Icon.png 3x">
