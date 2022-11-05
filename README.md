@@ -15,8 +15,6 @@
 
 [sitemap.xml](sitemap.xml)
 
-[_includes/head-custom.html](_includes/head-custom.html)
-
 ---
 
 
