@@ -11,10 +11,10 @@
 
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
-<img src="Screenshot1.png" width="500">
-<img src="Screenshot2.png" width="500">
-<img src="Screenshot3.png" srcset="Screenshot3.png 2x" width="500">
-<img src="Demo.gif" width="500">
+<img src="Screenshot1.png" width="400">
+<img src="Screenshot2.png" width="400">
+<img src="Screenshot3.png" srcset="Screenshot3.png 2x" width="400">
+<img src="Demo.gif" width="400">
 
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
