@@ -1,13 +1,14 @@
 
-# iPhoneApp TapWeight / 体重登録 for "Health"
+# iPhone App TapWeight / 体重登録 for "Health"
 
 ![Icon](Icon.png)
+<img src="Icon.png" srcset="Icon.png x2">
 
-## 🔗 AppStore link
+## AppStore link
 
 [apps.apple.com/app/id1624159721](https://apps.apple.com/app/id1624159721)
 
-## 📄 Description
+## Description
 
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
@@ -59,7 +60,7 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 
 
 
-## 🧰 Source code link
+## Source code link
 
 [github.com/FlipByBlink/TapWeight](https://github.com/FlipByBlink/TapWeight)
 
@@ -69,7 +70,7 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 [gitlab.com/FlipByBlink/TapWeight_Mirror](https://gitlab.com/FlipByBlink/TapWeight_Mirror)
 
 
-## ✉️ Contact
+## Contact
 
 sear_pandora_0x@icloud.com
 
