@@ -1,7 +1,7 @@
 ---
 title: Markdown Sample Page
 descriptioon: from primer github page
-lang: cn
+lang: en
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
