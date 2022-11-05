@@ -9,11 +9,15 @@
 
 [__my template page__](template)
 
-[my minimal template page](template/minimal)
+[minimalHtmlCss](template/minimalHtmlCss)
 
-[html css sample page](template/htmlCssSample)
+[sampleHtmlCss](template/sampleHtmlCss)
 
-[markdownSample](template/markdownSample)
+[minimalMarkdown](template/minimalMarkdown)
+
+[sampleMarkdown](template/sampleMarkdown)
+
+---
 
 [sitemap.xml](sitemap.xml)
 
