@@ -1,7 +1,11 @@
 
+<img src="Icon.png" width="180">
+
 # iPhone App TapWeight / 体重登録 for "Health"
 
-<img src="Icon.png" width="180">
+<a href="https://apps.apple.com/app/id1624159721" target="blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
+</a>
 
 ## AppStore link
 
@@ -11,15 +15,11 @@
 
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
-<img src="Screenshot1.png" width="400">
-<img src="Screenshot2.png" width="400">
-<img src="Screenshot3.png" srcset="Screenshot3.png 2x" width="400">
-<img src="Demo.gif" width="400">
+<img src="Screenshot1.png" width="360">
+<img src="Screenshot2.png" width="360">
+<img src="Screenshot3.png" srcset="Screenshot3.png 2x" width="360">
+<img src="Demo.gif" width="360">
 
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
-![Screenshot](Screenshot3.png)
-![Screenshot](Demo.gif)
 
 People frequently measure their weight and body fat percentage daily using a scale. Many iPhone users register their weight and body fat percentage data on "Health" app. The best solution is to use a smart scale that works with "Health" app and automatically stores measurements, but they are expensive and inaccessible. Manual data registration is possible in "Health" app, but "Health" app is not designed for daily manual data registration. Therefore, manually entering data that occur continuously daily, such as weight measurements, is a very time-consuming and stressful experience. This app was developed to solve such problems.
 
@@ -34,7 +34,7 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 
 - Intend to register the data into "Health" app every time, after measuring by a scale.
 
-### OPTION
+### Option
 
 - Unit: kg, lbs, st
 
@@ -48,7 +48,7 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 
 - Option to hide AD banner. (In-App-Purchase)
 
-### OTHERS
+### Others
 
 - Launch "Health" app by one tap.
 
