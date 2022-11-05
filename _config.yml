@@ -3,6 +3,7 @@
 # description: description(placeholder)
 
 # remote_theme: minimal
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-sitemap
