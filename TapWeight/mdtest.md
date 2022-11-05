@@ -2,7 +2,6 @@
 title: TapWeight for "Health"
 descriptioon: This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 lang: en
-theme-color: crimson
 ---
 
 # iPhone App TapWeight for "Health"
