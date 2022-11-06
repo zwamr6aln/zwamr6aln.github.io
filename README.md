@@ -1,6 +1,4 @@
 
-# h1です。
-
 これは仮のGitHubPagesです。
 
 [GitHub link](https://github.com/zwamr6aln/zwamr6aln.github.io)
@@ -34,8 +32,6 @@
 [TapWeight ホームページ en](TapWeight/en)
 
 [TapWeight ホームページ ja](TapWeight/ja)
-
-[TapWeight ホームページ zh-CN](TapWeight/zh-cn)
 
 [markdown test](TapWeight/mdtest)
 
