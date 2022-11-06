@@ -1,8 +1,4 @@
----
-title: Markdown Sample Page
-descriptioon: from primer github page
-lang: en
----
+> https://github.com/pages-themes/primer/blob/master/index.md
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
