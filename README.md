@@ -7,7 +7,9 @@
 
 ---
 
-[__my template page__](template)
+[__my template html/css page__](template/templateHtmlCss)
+
+[__my template markdown page__](template/templateMarkdown)
 
 [minimalHtmlCss](template/minimalHtmlCss)
 
