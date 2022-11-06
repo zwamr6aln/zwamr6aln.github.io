@@ -15,10 +15,9 @@ lang: en
 ## Description
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
-<img src="Screenshot1.png">
-<img src="Screenshot1.png" width="25%">
-<img src="Screenshot2.png" width="50%">
-<img src="Screenshot3.png" width="100%">
+<img src="Screenshot1.png" width="180">
+<img src="Screenshot2.png" width="180">
+<img src="Screenshot3.png" width="180">
 <img src="Demo.gif" width="180">
 
 People frequently measure their weight and body fat percentage daily using a scale. Many iPhone users register their weight and body fat percentage data on "Health" app. The best solution is to use a smart scale that works with "Health" app and automatically stores measurements, but they are expensive and inaccessible. Manual data registration is possible in "Health" app, but "Health" app is not designed for daily manual data registration. Therefore, manually entering data that occur continuously daily, such as weight measurements, is a very time-consuming and stressful experience. This app was developed to solve such problems.
