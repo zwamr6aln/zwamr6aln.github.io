@@ -17,8 +17,7 @@
 - レシピ本を確認しながら料理
 - 電車やバスでの読書
 - 身体障害を抱える方の読書
-
-など
+- など
 
 
 ## Description
@@ -37,14 +36,14 @@ All people who read fixed-layout ebooks
 - Cooking while checking a recipe book
 - Reading on the train or bus
 - Reading by people with physical disabilities
+- etc.
 
-etc.
-
-
-https://apps.apple.com/app/id1444571751
 
 ---
 
+
+## AppStore link
+https://apps.apple.com/app/id1444571751
 
 ## サポート言語 Support language
 日本語/英語 Japanese/English
