@@ -26,35 +26,23 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 
 ### Target / Use-case
 - No "smart" scale.
-
 - Frequently measure my weight (and body fat percentage) using a scale almost every day.
-
 - Intend to register the data into "Health" app every time, after measuring by a scale.
 
 ### Option
 - Unit: kg, lbs, st
-
 - 100g/50g amount option.
-
 - With body mass index automatically.
-
 - With body fat percentage.
-
 - Function to change the registration date and time
-
 - Option to hide AD banner. (In-App-Purchase)
 
 ### Others
 - Launch "Health" app by one tap.
-
 - Cancel feature just after registration.
-
 - Local history for the purpose of "operation check" / "temporary backup".
-
 - Check source code in app.
-
 - All feature is free.
-
 - AD banner of apps by TapWeight developer.
 
 ## Source code link

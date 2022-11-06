@@ -1,12 +1,7 @@
 
 # ☖ Plain将棋盤
 
-
-## AppStore link
-[apps.apple.com/app/id1620268476](https://apps.apple.com/app/id1620268476)
-
-
-## Description
+## 概要
 駒を自由に動かせるただの将棋盤です。
 
 iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
@@ -20,7 +15,7 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
 
 
-## 概要
+## Description
 Simple Shogi board.
 
 You can move a piece freely.
@@ -35,13 +30,14 @@ English term option.
 
 Output/Input function to/from plain text.
 
-
 ---
-
 
 ### Localization: All
 - Japanese(native)
 - English
+
+## AppStore link
+[apps.apple.com/app/id1620268476](https://apps.apple.com/app/id1620268476)
 
 ## Source code link
 [github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
