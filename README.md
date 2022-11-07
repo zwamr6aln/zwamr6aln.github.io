@@ -33,8 +33,6 @@
 
 [TapWeight ホームページ ja](TapWeight/ja)
 
-[markdown test](TapWeight/mdtest)
-
 
 ## TapTemperature site list
 [TapTemperature ホームページ en](TapTemperature/en)

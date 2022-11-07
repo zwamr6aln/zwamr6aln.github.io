@@ -1,24 +1,22 @@
 ---
 title: TapWeight for "Health"
-descriptioon: This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
+descriptioon: App to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 lang: en
 ---
 
-# iPhone App TapWeight for "Health"
+# TapWeight for "Health"
 
 <img src="Icon.png" width="80">
 
-<a href="https://apps.apple.com/app/id1624159721" target="blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
-</a>
+[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1624159721)
+
+<img src="Screenshot1.png" width="160">
+<img src="Screenshot2.png" width="160">
+<img src="Screenshot3.png" width="160">
+<img src="Demo.gif" width="160">
 
 ## Description
 This application is designed to register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
-
-<img src="Screenshot1.png" width="180">
-<img src="Screenshot2.png" width="180">
-<img src="Screenshot3.png" width="180">
-<img src="Demo.gif" width="180">
 
 People frequently measure their weight and body fat percentage daily using a scale. Many iPhone users register their weight and body fat percentage data on "Health" app. The best solution is to use a smart scale that works with "Health" app and automatically stores measurements, but they are expensive and inaccessible. Manual data registration is possible in "Health" app, but "Health" app is not designed for daily manual data registration. Therefore, manually entering data that occur continuously daily, such as weight measurements, is a very time-consuming and stressful experience. This app was developed to solve such problems.
 
@@ -54,7 +52,7 @@ This app cannot read, view, or manage past data in "Health" app. This app is int
 ## Contact
 sear_pandora_0x@icloud.com
 
-------
+---
 
 ## Privacy Policy for AppStore
 2022-05-22
@@ -65,10 +63,4 @@ sear_pandora_0x@icloud.com
 ### English
 This application don't collect user infomation.
 
-------
-
-<!-- URL "Support page for AppStore" -->
-<!-- https://flipbyblink.github.io/TapWeight/ -->
-
-<!-- URL "Privacy Policy for AppStore" -->
-<!-- https://github.com/FlipByBlink/TapWeight#privacy-policy-for-appstore -->
+---
