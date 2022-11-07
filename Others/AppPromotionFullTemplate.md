@@ -4,16 +4,18 @@ descriptioon: アプリの簡単な説明
 lang: ja
 ---
 
+`アプリプロモーションページ詳細版`
+
 _アプリ名_
 ========
 _キャッチコピー_
 
-![App icon]()
+<img src="Icon.png" width="90">
 
 [![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/)
 
-![Screenshot1]()
-![Screenshot2]()
+<img src="Screenshot1.png" width="160">
+<img src="Screenshot2.png" width="160">
 
 概要
 ----

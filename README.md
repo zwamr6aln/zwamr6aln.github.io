@@ -43,7 +43,9 @@
 
 
 ### Apps
-[AppPromotionTemplate](Others/AppPromotionTemplate)
+[AppPromotionSimpleTemplate](Others/AppPromotionSimpleTemplate)
+
+[AppPromotionFullTemplate](Others/AppPromotionFullTemplate)
 
 [FadeInAlarm](Others/FadeInAlarm.md)
 
