@@ -33,10 +33,10 @@ lang: en
 
 ***
 
-<img src="🌳.png" width="80">
+<img src="🌃.png" width="80">
 
 ```
-<img src="🌳.png" width="80">
+<img src="🌃.png" width="80">
 ```
 
 ***
