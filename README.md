@@ -3,7 +3,9 @@
 
 [GitHub link](https://github.com/zwamr6aln/zwamr6aln.github.io)
 
----
+<https://github.com/zwamr6aln/zwamr6aln.github.io>
+
+***
 
 ## html css
 [__html/css my template page__](htmlCss/fullTemplate)
@@ -12,7 +14,7 @@
 
 [sample html css](htmlCss/sample)
 
----
+***
 
 ## markdown
 [__markdown my template page__](markdown/templateMarkdown)
@@ -23,15 +25,15 @@
 
 [app promotion page](markdown/appPromoTemplate)
 
----
+***
 
 [sitemap.xml](sitemap.xml)
 
----
+***
 
 [testPlainPages](https://zwamr6aln.github.io/testPlainPages/)
 
----
+***
 
 ### Apps
 [FadeInAlarm](markdown/FadeInAlarm.md)
