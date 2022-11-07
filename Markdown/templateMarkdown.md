@@ -15,7 +15,7 @@ lang: en
 ---
 ```
 
----
+***
 
 <a href="https://apps.apple.com/app/id1624159721" target="blank">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
@@ -27,7 +27,7 @@ lang: en
 </a>
 ```
 
----
+***
 
 <img src="🌃.png" srcset="🌃.png 2x">
 
@@ -35,7 +35,7 @@ lang: en
 <img src="🌃.png" srcset="🌃.png 2x">
 ```
 
----
+***
 
 <img src="🌳.png" width="80">
 
