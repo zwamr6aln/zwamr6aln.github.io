@@ -12,7 +12,7 @@ _キャッチコピー_
 
 <img src="Icon.png" width="90">
 
-[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/)
+[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/)
 
 <img src="Screenshot1.png" width="160">
 <img src="Screenshot2.png" width="160">
