@@ -123,8 +123,3 @@ _2022-04-21_
 
 ### English
 This application don't collect user infomation.
-
----
-
-### AppStore URL
-https://apps.apple.com/app/id1465336070

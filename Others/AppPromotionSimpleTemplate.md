@@ -38,6 +38,3 @@ _キャッチコピー_
 ### サポート言語
 - 日本語
 - 英語
-
-### AppStore URL
-https://apps.apple.com/app/id

@@ -101,8 +101,3 @@ _2022-?-?_
 
 ### English
 This application don't collect user infomation.
-
----
-
-### AppStore URL
-https://apps.apple.com/app/id
