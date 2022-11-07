@@ -50,7 +50,9 @@ FadeInAlarm / フェードインアラーム
 
 デモビデオ
 --------
-https://www.youtube.com/watch?v=d66thA-K5Dg
+[www.youtube.com/watch?v=d66thA-K5Dg](https://www.youtube.com/watch?v=d66thA-K5Dg)
+
+---
 
 仕様
 ----
@@ -67,6 +69,8 @@ https://www.youtube.com/watch?v=d66thA-K5Dg
 ### サポート言語
 - 英語
 - 日本語
+
+---
 
 バージョン情報
 ------------
@@ -90,8 +94,10 @@ _2022年02月25日_
 ### 1.0
 _2019年05月26日_
 
-ソースコードを公開しています。
-------------------------
+---
+
+ソースコードを公開しています
+-----------------------
 [github.com/FlipByBlink/FadeInAlarm_v2](https://github.com/FlipByBlink/FadeInAlarm_v2)
 
 問い合わせ / 連絡先
@@ -102,6 +108,7 @@ sear_pandora_0x@icloud.com
 -------------------------
 ### 組織構成
 個人系
+
 ### 名前
 山下亮(1人のみ)
 
@@ -110,7 +117,9 @@ sear_pandora_0x@icloud.com
 プライバシーポリシー
 -----------------
 _2022-04-21_
+
 ### Japanese
 このアプリ自身において、ユーザーの情報を一切収集しません。
+
 ### English
 This application don't collect user infomation.
