@@ -1,19 +1,19 @@
----
----
+// ---
+// ---
+//
+// @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primaryColor: white;
-        --backgroundColor: #212121;
-        --primaryAccentColor: DeepSkyBlue;
-        --secondaryAccentColor: DarkCyan;
-    }
-    body {
-        color: var(--primaryColor);
-        background-color: var(--backgroundColor);
-    }
-    a:link { color: var(--primaryAccentColor); }
-    a:visited { color: var(--secondaryAccentColor); }
-}
+// @media (prefers-color-scheme: dark) {
+//     :root {
+//         --primaryColor: white;
+//         --backgroundColor: #212121;
+//         --primaryAccentColor: DeepSkyBlue;
+//         --secondaryAccentColor: DarkCyan;
+//     }
+//     body {
+//         color: var(--primaryColor);
+//         background-color: var(--backgroundColor);
+//     }
+//     a:link { color: var(--primaryAccentColor); }
+//     a:visited { color: var(--secondaryAccentColor); }
+// }
