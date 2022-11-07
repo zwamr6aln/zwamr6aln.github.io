@@ -1,12 +1,12 @@
 ---
 title: FadeInAlarm | PR
-descriptioon: 少しずつ音量が大きくなるアラームです。iOS/iPad向けアプリ。
+descriptioon: 少しずつ音量が大きくなるアラームアプリ。iOS/iPad向けアプリ。
 lang: ja
 ---
 
-FadeInAlarm
-===========
-少しずつ音量が大きくなるアラームアプリ
+FadeInAlarm / フェードインアラーム
+===============================
+少しずつ音が大きくなるアラームアプリです。
 
 ![App icon](Icon.png)
 
@@ -52,9 +52,6 @@ FadeInAlarm
 --------
 https://www.youtube.com/watch?v=d66thA-K5Dg
 
-操作方法
--------
-
 仕様
 ----
 ### 価格
@@ -70,12 +67,6 @@ https://www.youtube.com/watch?v=d66thA-K5Dg
 ### サポート言語
 - 英語
 - 日本語
-
-よくある質問/よくありそうな質問
---------------------------
-
-制限事項
--------
 
 バージョン情報
 ------------
@@ -123,42 +114,3 @@ _2022-04-21_
 このアプリ自身において、ユーザーの情報を一切収集しません。
 ### English
 This application don't collect user infomation.
-
----
-
-
-
-
-```
-## Description
-Alarm clock with taking a long time from small volume to max volume.
-
-### OPTIONS
-#### Hour fade-in
-- 0:10
-- 0:30
-- 1:00
-- 5:00
-- 30:00
-- 1:00:00
-
-#### Hour fade-out
-- 0:03
-- 0:07
-- 0:15
-- 0:30
-- 1:00
-
-#### Volume on waiting
-- 10%
-- 5%
-- 3%
-- 1%
-- 0%
-
-### REQUIRED
-Import your favorite audio file such as mp3.
-
-### NOTICE
-App must be launched beforehand in advance.
-```
