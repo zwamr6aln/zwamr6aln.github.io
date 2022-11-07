@@ -13,7 +13,7 @@ FadeInAlarm / フェードインアラーム
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1465336070)
 
 <img src="screenshot1.png" width="160">
-<img src="screenshot2.png" width="160">
+<img src="screenshot900w.png" width="300">
 
 概要
 ----
