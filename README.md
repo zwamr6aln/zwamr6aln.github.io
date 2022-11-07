@@ -27,6 +27,9 @@
 
 ---
 
+[AppPromotionPage](Others/AppPromotionPage)
+
+---
 
 ## TapWeight site list
 [TapWeight ホームページ en](TapWeight/en)

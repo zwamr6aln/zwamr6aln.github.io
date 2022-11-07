@@ -22,25 +22,3 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
 ## ソースコード
 [github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
-
----
-
-
-
-
-```
-## Description
-Simple Shogi board.
-
-You can move a piece freely.
-
-This app based on iOS system UI design.
-
-Character adapts font size and weight by OS option.
-
-You can reduce / increase pieces.
-
-English term option.
-
-Output/Input function to/from plain text.
-```

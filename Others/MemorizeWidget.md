@@ -21,22 +21,3 @@
 
 ## Source code link
 https://github.com/FlipByBlink/MemorizeWidget
-
----
-
-
-
-
-```
-## Description
-Flashcard on widget. Memorize a note in everyday life.
-- Two mode. \"One note mode\" or \"Random note mode\".
-- In Random note mode, widget changes the note per 5 minutes.
-- Lock screen widget support (iOS 16 only)
-- Import file(e.g. tsv, csv, txt) or text.
-- System dictionary support.
-- Customizable search function.
-
-### Option
-- Show comment on widget. (homescreen-widget/lockscreen-rectangular)
-```
