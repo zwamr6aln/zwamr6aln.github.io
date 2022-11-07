@@ -1,5 +1,5 @@
 
-# MemorizeWidget / 暗記ウィジェット for iPhone, iPad
+# 暗記ウィジェット / MemorizeWidget for iPhone, iPad
 
 ## AppStore link
 https://apps.apple.com/app/id1644276262
@@ -26,6 +26,7 @@ https://apps.apple.com/app/id1644276262
 https://github.com/FlipByBlink/MemorizeWidget
 
 ---
+
 
 
 

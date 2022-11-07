@@ -1,5 +1,5 @@
 
-# LockInNote / ロックノート for iPhone
+# ロックノート / LockInNote for iPhone
 
 ## AppStore link
 https://apps.apple.com/app/id1644879340
@@ -20,6 +20,8 @@ https://apps.apple.com/app/id1644879340
 
 ## Source code link
 https://github.com/FlipByBlink/LockInNote
+
+---
 
 
 

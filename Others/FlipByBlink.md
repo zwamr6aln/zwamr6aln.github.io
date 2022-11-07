@@ -19,10 +19,10 @@
 - 身体障害を抱える方の読書
 - など
 
-## AppStore link
+## AppStore リンク
 https://apps.apple.com/app/id1444571751
 
-## サポート言語 Support language
+## サポート言語
 日本語/英語 Japanese/English
 
 ---

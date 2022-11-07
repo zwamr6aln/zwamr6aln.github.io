@@ -1,5 +1,5 @@
 
-# FadeInAlarm ver 2.x
+# FadeInAlarm
 
 [![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1465336070)
 

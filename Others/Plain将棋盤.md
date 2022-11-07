@@ -1,5 +1,5 @@
 
-# ☖ Plain将棋盤
+# Plain将棋盤
 
 ## 概要
 駒を自由に動かせるただの将棋盤です。
@@ -14,19 +14,20 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
 
----
-
-### Localization: All
+### ローカライゼーション
 - Japanese(native)
 - English
 
-## AppStore link
+## AppStore リンク
 [apps.apple.com/app/id1620268476](https://apps.apple.com/app/id1620268476)
 
-## Source code link
+## ソースコード
 [github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
 
 ---
+
+
+
 
 ```
 ## Description
