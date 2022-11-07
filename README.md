@@ -32,16 +32,3 @@
 ***
 
 [testPlainPages](https://zwamr6aln.github.io/testPlainPages/)
-
-***
-
-### Apps
-[FadeInAlarm](markdown/FadeInAlarm.md)
-
-[FlipByBlink](markdown/FlipByBlink.md)
-
-[LockInNote](markdown/LockInNote.md)
-
-[MemorizeWidget](markdown/MemorizeWidget.md)
-
-[Plain将棋盤](markdown/Plain将棋盤.md)
