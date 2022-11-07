@@ -1,6 +1,8 @@
 
 # FadeInAlarm ver 2.x
 
+[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1465336070)
+
 ## Description
 Alarm clock with taking a long time from small volume to max volume.
 
