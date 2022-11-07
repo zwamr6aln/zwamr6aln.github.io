@@ -3,7 +3,7 @@
 
 [GitHub link](https://github.com/zwamr6aln/zwamr6aln.github.io)
 
-<https://github.com/zwamr6aln/zwamr6aln.github.io>
+[Pages link](https://zwamr6aln.github.io)
 
 ***
 

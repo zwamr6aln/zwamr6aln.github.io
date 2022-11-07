@@ -21,9 +21,8 @@ lang: en
 
 ***
 
-[![AppStore link](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id1624159721)
+[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
 
 ```
-[![AppStore link](https://developer.apple.com/assets/elements/badges/dow
-nload-on-the-app-store.svg)](https://apps.apple.com/app/id1624159721)
+[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
 ```
