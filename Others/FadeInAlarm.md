@@ -50,7 +50,7 @@ FadeInAlarm / フェードインアラーム
 
 デモビデオ
 --------
-[www.youtube.com/watch?v=d66thA-K5Dg](https://www.youtube.com/watch?v=d66thA-K5Dg)
+[youtube.com/watch?v=d66thA-K5Dg](https://www.youtube.com/watch?v=d66thA-K5Dg)
 
 ---
 
@@ -123,3 +123,8 @@ _2022-04-21_
 
 ### English
 This application don't collect user infomation.
+
+---
+
+### AppStore URL
+https://apps.apple.com/app/id1465336070
