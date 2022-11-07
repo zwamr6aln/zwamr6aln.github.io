@@ -27,7 +27,7 @@
 
 ---
 
-[AppPromotionPage](Others/AppPromotionPage)
+[AppPromotionPage](AppPromotionPage/Template)
 
 ---
 
@@ -44,16 +44,12 @@
 
 
 ### Apps
-[AppPromotionSimpleTemplate](Others/AppPromotionSimpleTemplate)
+[FadeInAlarm](AppPromotionPage/FadeInAlarm.md)
 
-[AppPromotionFullTemplate](Others/AppPromotionFullTemplate)
+[FlipByBlink](AppPromotionPage/FlipByBlink.md)
 
-[FadeInAlarm](Others/FadeInAlarm.md)
+[LockInNote](AppPromotionPage/LockInNote.md)
 
-[FlipByBlink](Others/FlipByBlink.md)
+[MemorizeWidget](AppPromotionPage/MemorizeWidget.md)
 
-[LockInNote](Others/LockInNote.md)
-
-[MemorizeWidget](Others/MemorizeWidget.md)
-
-[Plain将棋盤](Others/Plain将棋盤.md)
+[Plain将棋盤](AppPromotionPage/Plain将棋盤.md)
