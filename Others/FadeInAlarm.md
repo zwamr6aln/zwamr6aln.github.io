@@ -1,6 +1,6 @@
 ---
 title: FadeInAlarm | PR
-descriptioon: アプリの簡単な説明
+descriptioon: 少しずつ音量が大きくなるアラームです。iOS/iPad向けアプリ。
 lang: ja
 ---
 
@@ -118,11 +118,6 @@ _2022-04-21_
 このアプリ自身において、ユーザーの情報を一切収集しません。
 ### English
 This application don't collect user infomation.
-
----
-
-#### 本ページの更新日時
-2022-11-07
 
 ---
 
