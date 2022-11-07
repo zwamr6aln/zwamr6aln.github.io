@@ -1,5 +1,5 @@
 ---
-title: FadeInAlarm | PR
+title: FadeInAlarm
 descriptioon: 少しずつ音量が大きくなるアラームアプリ。iOS/iPad向けアプリ。
 lang: ja
 ---

@@ -1,5 +1,5 @@
 ---
-title: アプリ名 | PR
+title: アプリ名
 descriptioon: アプリの簡単な説明
 lang: ja
 ---
