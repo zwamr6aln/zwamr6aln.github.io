@@ -7,9 +7,9 @@
 
 ***
 
-[html css](htmlCss)
+[html css](html_css)
 
-[markdown](markdown)
+[markdown ssg](markdown_ssg)
 
 ***
 
