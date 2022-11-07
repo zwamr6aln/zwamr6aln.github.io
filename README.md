@@ -7,28 +7,14 @@
 
 ***
 
-## html css
-[__html/css my template page__](htmlCss/fullTemplate)
+[html css](htmlCss)
 
-[minimal html css](htmlCss/minimalTemplate)
-
-[sample html css](htmlCss/sample)
-
-***
-
-## markdown
-[__markdown my template page__](markdown/templateMarkdown)
-
-[minimal markdown](markdown/minimalMarkdown)
-
-[sample markdown](markdown/sampleMarkdown)
-
-[app promotion page](markdown/appPromoTemplate)
-
-***
-
-[sitemap.xml](sitemap.xml)
+[markdown](markdown)
 
 ***
 
 [testPlainPages](https://zwamr6aln.github.io/testPlainPages/)
+
+***
+
+[sitemap.xml](sitemap.xml)
