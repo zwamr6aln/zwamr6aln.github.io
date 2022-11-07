@@ -5,21 +5,23 @@
 
 ---
 
-## Html Css
-[__my template html/css page__](HtmlCss/fullTemplate)
+## html css
+[__html/css my template page__](htmlCss/fullTemplate)
 
-[minimalHtmlCss](HtmlCss/minimalTemplate)
+[minimal html css](htmlCss/minimalTemplate)
 
-[sampleHtmlCss](HtmlCss/sample)
+[sample html css](htmlCss/sample)
 
 ---
 
-## Markdown
-[__my template markdown page__](Markdown/templateMarkdown)
+## markdown
+[__markdown my template page__](markdown/templateMarkdown)
 
-[minimalMarkdown](Markdown/minimalMarkdown)
+[minimal markdown](markdown/minimalMarkdown)
 
-[sampleMarkdown](Markdown/sampleMarkdown)
+[sample markdown](markdown/sampleMarkdown)
+
+[app promotion page](markdown/appPromoTemplate)
 
 ---
 
@@ -32,12 +34,12 @@
 ---
 
 ### Apps
-[FadeInAlarm](Markdown/FadeInAlarm.md)
+[FadeInAlarm](markdown/FadeInAlarm.md)
 
-[FlipByBlink](Markdown/FlipByBlink.md)
+[FlipByBlink](markdown/FlipByBlink.md)
 
-[LockInNote](Markdown/LockInNote.md)
+[LockInNote](markdown/LockInNote.md)
 
-[MemorizeWidget](Markdown/MemorizeWidget.md)
+[MemorizeWidget](markdown/MemorizeWidget.md)
 
-[Plain将棋盤](Markdown/Plain将棋盤.md)
+[Plain将棋盤](markdown/Plain将棋盤.md)

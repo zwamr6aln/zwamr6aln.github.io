@@ -2,8 +2,8 @@
 lang: en
 ---
 
-
-# Minimal markdown page
+Minimal markdown page
+=====================
 
 ```
 ---
