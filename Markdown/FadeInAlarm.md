@@ -8,12 +8,12 @@ FadeInAlarm / フェードインアラーム
 ===============================
 少しずつ音が大きくなるアラームアプリです。
 
-<img src="Icon.png" width="90">
+<img src="icon.png" width="90">
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1465336070)
 
-<img src="Screenshot1.png" width="160">
-<img src="Screenshot2.png" width="160">
+<img src="screenshot1.png" width="160">
+<img src="screenshot2.png" width="160">
 
 概要
 ----

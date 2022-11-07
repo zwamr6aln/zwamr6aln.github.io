@@ -10,12 +10,12 @@ _アプリ名_
 ===========
 _キャッチコピー_
 
-<img src="Icon.png" width="90">
+<img src="icon.png" width="90">
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/)
 
-<img src="Screenshot1.png" width="160">
-<img src="Screenshot2.png" width="160">
+<img src="screenshot1.png" width="160">
+<img src="screenshot2.png" width="160">
 
 概要
 ----------

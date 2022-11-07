@@ -2,12 +2,14 @@
 markdown
 ========
 
-[template markdown](templateMarkdown)
+[more template](moreTemplate)
 
-[sample](sampleMarkdown)
-
-[minimal markdown](minimalMarkdown)
+[minimal template](minimalTemplate)
 
 ***
 
 [promo template](appPromoTemplate)
+
+***
+
+[sample](sample)
