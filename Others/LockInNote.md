@@ -4,14 +4,6 @@
 ## AppStore link
 https://apps.apple.com/app/id1644879340
 
-## Description
-Note app for lock screen widget!
-- Launch automatically keyboard as soon as widget is tapped.
-- Adjust Font size / design / weight etc.
-- Options of multi-text-alignment / placeholder-graphic etc.
-- Support share sheet with text.
-- Support URL scheme action with text.
-
 ## 概要
 ロック画面ウィジェット専用のノートアプリ！
 - ウィジェットをタップすると、すぐにキーボードが立ち上がり、ノートを編集できます。
@@ -28,3 +20,16 @@ Note app for lock screen widget!
 
 ## Source code link
 https://github.com/FlipByBlink/LockInNote
+
+
+
+
+```
+## Description
+Note app for lock screen widget!
+- Launch automatically keyboard as soon as widget is tapped.
+- Adjust Font size / design / weight etc.
+- Options of multi-text-alignment / placeholder-graphic etc.
+- Support share sheet with text.
+- Support URL scheme action with text.
+```

@@ -19,7 +19,20 @@
 - 身体障害を抱える方の読書
 - など
 
+## AppStore link
+https://apps.apple.com/app/id1444571751
 
+## サポート言語 Support language
+日本語/英語 Japanese/English
+
+---
+
+
+
+
+
+
+```
 ## Description
 - Simple and normal ebook reader (for fixed-layout)
 - Only a special feature. Turn a page with slightly longish voluntary blink
@@ -37,13 +50,6 @@ All people who read fixed-layout ebooks
 - Reading on the train or bus
 - Reading by people with physical disabilities
 - etc.
-
+```
 
 ---
-
-
-## AppStore link
-https://apps.apple.com/app/id1444571751
-
-## サポート言語 Support language
-日本語/英語 Japanese/English
