@@ -15,7 +15,7 @@ markdown
 [promo template](appPromoTemplate)
 
 Apps
---------
+-------------
 [FadeInAlarm](FadeInAlarm)
 
 [TapWeight](TapWeight)
