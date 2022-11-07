@@ -90,16 +90,16 @@ _2022年02月25日_
 ### 1.0
 _2019年05月26日_
 
-ソースコード
-----------
-https://github.com/FlipByBlink/FadeInAlarm_v2
+ソースコードを公開しています。
+------------------------
+[github.com/FlipByBlink/FadeInAlarm_v2](https://github.com/FlipByBlink/FadeInAlarm_v2)
 
-問い合わせ/連絡先
----------------
+問い合わせ / 連絡先
+-----------------
 sear_pandora_0x@icloud.com
 
-デベロッパー/パブリッシャー
------------------------
+デベロッパー / パブリッシャー
+-------------------------
 ### 組織構成
 個人系
 ### 名前
