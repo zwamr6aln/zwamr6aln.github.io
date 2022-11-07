@@ -10,7 +10,7 @@ _キャッチコピー_
 
 ![App icon]()
 
-[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1465336070)
+[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/)
 
 ![Screenshot1]()
 ![Screenshot2]()
@@ -50,7 +50,6 @@ _キャッチコピー_
 ### 1.2
 _2022年10月10日_
 - マイナーアップデート。
-
 ### 1.0.1
 _2022年09月10日_
 - 軽微な修正。
@@ -78,7 +77,7 @@ sear_pandora_0x@icloud.com
 
 プライバシーポリシー
 -----------------
-_2022-04-21_
+_2022-?-?_
 ### Japanese
 このアプリ自身において、ユーザーの情報を一切収集しません。
 ### English
