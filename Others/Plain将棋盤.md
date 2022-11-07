@@ -1,6 +1,8 @@
 
 # Plain将棋盤
 
+[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1620268476)
+
 ## 概要
 駒を自由に動かせるただの将棋盤です。
 
@@ -17,9 +19,6 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 ### ローカライゼーション
 - Japanese(native)
 - English
-
-## AppStore リンク
-[apps.apple.com/app/id1620268476](https://apps.apple.com/app/id1620268476)
 
 ## ソースコード
 [github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)

@@ -1,6 +1,8 @@
 
 # FlipByBlink
 
+[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1444571751)
+
 ## 概要
 - シンプルで一般的な電子書籍リーダー(固定レイアウト向け)
 - 特殊な機能は1つだけ。目を閉じる時間を意識的にわずかに長くさせた瞬きでページめくりをします
@@ -19,11 +21,9 @@
 - 身体障害を抱える方の読書
 - など
 
-## AppStore リンク
-https://apps.apple.com/app/id1444571751
-
 ## サポート言語
-日本語/英語 Japanese/English
+- 日本語
+- 英語
 
 ---
 
@@ -51,5 +51,3 @@ All people who read fixed-layout ebooks
 - Reading by people with physical disabilities
 - etc.
 ```
-
----
