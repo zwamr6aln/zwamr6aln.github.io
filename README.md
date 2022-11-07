@@ -43,6 +43,8 @@
 
 
 ### Apps
+[AppPromotionTemplate](Others/AppPromotionTemplate)
+
 [FadeInAlarm](Others/FadeInAlarm.md)
 
 [FlipByBlink](Others/FlipByBlink.md)
