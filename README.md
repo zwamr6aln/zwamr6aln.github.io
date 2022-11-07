@@ -5,17 +5,21 @@
 
 ---
 
-[__my template html/css page__](template/templateHtmlCss)
+## Html Css
+[__my template html/css page__](HtmlCss/fullTemplate)
 
-[__my template markdown page__](template/templateMarkdown)
+[minimalHtmlCss](HtmlCss/minimalTemplate)
 
-[minimalHtmlCss](template/minimalHtmlCss)
+[sampleHtmlCss](HtmlCss/sample)
 
-[sampleHtmlCss](template/sampleHtmlCss)
+---
 
-[minimalMarkdown](template/minimalMarkdown)
+## Markdown
+[__my template markdown page__](Markdown/templateMarkdown)
 
-[sampleMarkdown](template/sampleMarkdown)
+[minimalMarkdown](Markdown/minimalMarkdown)
+
+[sampleMarkdown](Markdown/sampleMarkdown)
 
 ---
 
@@ -27,29 +31,13 @@
 
 ---
 
-[AppPromotionPage](AppPromotionPage/Template)
-
----
-
-## TapWeight site list
-[TapWeight ホームページ en](TapWeight/en)
-
-[TapWeight ホームページ ja](TapWeight/ja)
-
-
-## TapTemperature site list
-[TapTemperature ホームページ en](TapTemperature/en)
-
-[TapTemperature ホームページ ja](TapTemperature/ja)
-
-
 ### Apps
-[FadeInAlarm](AppPromotionPage/FadeInAlarm.md)
+[FadeInAlarm](Markdown/FadeInAlarm.md)
 
-[FlipByBlink](AppPromotionPage/FlipByBlink.md)
+[FlipByBlink](Markdown/FlipByBlink.md)
 
-[LockInNote](AppPromotionPage/LockInNote.md)
+[LockInNote](Markdown/LockInNote.md)
 
-[MemorizeWidget](AppPromotionPage/MemorizeWidget.md)
+[MemorizeWidget](Markdown/MemorizeWidget.md)
 
-[Plain将棋盤](AppPromotionPage/Plain将棋盤.md)
+[Plain将棋盤](Markdown/Plain将棋盤.md)
