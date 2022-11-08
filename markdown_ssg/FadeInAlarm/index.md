@@ -95,7 +95,11 @@ sear_pandora_0x@icloud.com
 #### 名前
 山下亮(1人のみ)
 
-バージョン情報
+ソースコードを公開しています
+---------------------------------------
+[github.com/FlipByBlink/FadeInAlarm_v2](https://github.com/FlipByBlink/FadeInAlarm_v2)
+
+バージョン履歴
 ------------
 ### 2.1
 _2022年05月10日_
@@ -116,19 +120,3 @@ _2022年02月25日_
 
 ### 1.0
 _2019年05月26日_
-
-ソースコードを公開しています
----------------------------------------
-[github.com/FlipByBlink/FadeInAlarm_v2](https://github.com/FlipByBlink/FadeInAlarm_v2)
-
-***
-
-プライバシーポリシー
------------------
-_2022-04-21_
-
-### Japanese
-このアプリ自身において、ユーザーの情報を一切収集しません。
-
-### English
-This application don't collect user infomation.
