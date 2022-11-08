@@ -63,15 +63,15 @@ sear_pandora_0x@icloud.com
 ### デベロッパー / パブリッシャー
 <table>
 <tr>
-<td>組織構成</td>
+<th>組織構成</th>
 <td>個人系</td>
 </tr>
 <tr>
-<td>人数</td>
-<td>1名</td>
+<th>人数</th>
+<td>1人</td>
 </tr>
 <tr>
-<td>名前</td>
+<th>名前</th>
 <td>山下亮</td>
 </tr>
 </table>
