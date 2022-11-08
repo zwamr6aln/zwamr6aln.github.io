@@ -4,7 +4,7 @@ Plain将棋盤
 
 <img src="icon.png" width="80">
 
-[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1620268476)
+[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1620268476)
 
 <img src="top1200w.png" width="600">
 

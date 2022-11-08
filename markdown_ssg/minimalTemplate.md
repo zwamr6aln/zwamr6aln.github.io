@@ -21,8 +21,8 @@ lang: en
 
 * * *
 
-[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
+[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1624159721)
 
 ```
-[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
+[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1624159721)
 ```

@@ -4,7 +4,7 @@ FlipByBlink
 
 <img src="icon.png" width="80">
 
-[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1444571751)
+[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1444571751)
 
 <img src="screenshot1200w.png" width="600">
 

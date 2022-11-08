@@ -4,7 +4,7 @@ _キャッチコピー_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/)
+[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/)
 
 <img src="top1200w.png" width="600">
 
