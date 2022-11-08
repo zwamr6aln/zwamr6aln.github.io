@@ -15,7 +15,7 @@ lang: en
 ---
 ```
 
-***
+* * *
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
 
@@ -23,7 +23,7 @@ lang: en
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
 ```
 
-***
+* * *
 
 <img src="🌃.png" srcset="🌃.png 2x">
 
@@ -31,7 +31,7 @@ lang: en
 <img src="🌃.png" srcset="🌃.png 2x">
 ```
 
-***
+* * *
 
 <img src="🌃.png" width="80">
 
@@ -39,7 +39,7 @@ lang: en
 <img src="🌃.png" width="80">
 ```
 
-***
+* * *
 
 <https://apps.apple.com/app/id1624159721>
 
@@ -47,7 +47,7 @@ lang: en
 <https://apps.apple.com/app/id1624159721>
 ```
 
-***
+* * *
 
 a|b|c
 -|-|-
@@ -63,7 +63,7 @@ a|b|c
 a|b|c
 ```
 
-***
+* * *
 
 <video controls width="200" src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4">
       Sorry, your browser doesn't support embedded videos.

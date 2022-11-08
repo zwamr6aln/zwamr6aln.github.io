@@ -11,7 +11,7 @@ lang: en
 ---
 ```
 
-***
+* * *
 
 <img src="🌃.png" width="180">
 
@@ -19,7 +19,7 @@ lang: en
 <img src="🌃.png" width="180">
 ```
 
-***
+* * *
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1624159721)
 

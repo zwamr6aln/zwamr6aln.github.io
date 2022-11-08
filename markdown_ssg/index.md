@@ -6,11 +6,11 @@ markdown
 
 [minimal template](minimalTemplate)
 
-***
+* * *
 
 [sample](sample)
 
-***
+* * *
 
 [promo template](appPromoTemplate)
 
