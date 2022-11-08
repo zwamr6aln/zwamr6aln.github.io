@@ -101,19 +101,21 @@
       section {
         orphans: 2;
         widows: 2;
-      }
-
-      table {
         break-inside: avoid;
-      }
-
-      h2 {
-        break-before: page;
+        /* break-before: page; */
         /* break-after: page; */
       }
 
       @page {
         margin: 32px;
+      }
+
+      img[src$=".GIF"] {
+        display: none;
+      }
+
+      video {
+        display: none;
       }
     }
   </style>
