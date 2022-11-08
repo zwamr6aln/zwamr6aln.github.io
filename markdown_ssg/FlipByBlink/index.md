@@ -1,8 +1,3 @@
----
-title: FlipByBlink
-descriptioon: 目を閉じる時間を意識的にわずかに長くさせた瞬きでページめくりできる電子書籍リーダーアプリ
-lang: ja
----
 
 FlipByBlink
 ==================
