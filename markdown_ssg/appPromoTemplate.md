@@ -24,8 +24,8 @@ placeholder
 広告を非表示にする(160円)
 
 ### プラットフォーム
-- iOS 16.0 以降
-- iPadOS 16.0 以降
+- iOS 1. 以降
+- iPadOS 1. 以降
 
 ### サポート言語
 - 日本語
@@ -51,4 +51,4 @@ sear_pandora_0x@icloud.com
 </table>
 
 ### バージョン
-1.3.1
+1.
