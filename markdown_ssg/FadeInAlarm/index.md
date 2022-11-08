@@ -57,8 +57,7 @@ FadeInAlarm / フェードインアラーム
 
 デモビデオ
 ---------------------------
-<video controls width="240">
-      <source src="preview.mp4" type="video/mp4" muted="false">
+<video controls width="200" src="preview.mp4">
       Sorry, your browser doesn't support embedded videos.
 </video>
 
