@@ -1,9 +1,15 @@
+Plain将棋盤
+==============
+最もプレーンな将棋盤アプリ
 
-# Plain将棋盤
+<img src="icon.png" width="80">
 
-[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1620268476)
+[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1620268476)
 
-## 概要
+<img src="top1200w.png" width="600">
+
+概要
+----------
 駒を自由に動かせるただの将棋盤です。
 
 iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
@@ -16,9 +22,40 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
 
-### ローカライゼーション
-- Japanese(native)
-- English
+仕様
+-------
+### 価格
+無料
 
-## ソースコード
-[github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
+### アプリ内課金
+広告を非表示にする(320円)
+
+### プラットフォーム
+- iOS 15.4 以降
+- iPadOS 15.4 以降
+
+### サポート言語
+- 日本語
+- 英語
+
+### 問い合わせ
+sear_pandora_0x@icloud.com
+
+### デベロッパー / パブリッシャー
+<table>
+<tr>
+<th>組織構成</th>
+<td>個人系</td>
+</tr>
+<tr>
+<th>人数</th>
+<td>1人</td>
+</tr>
+<tr>
+<th>名前</th>
+<td>山下亮</td>
+</tr>
+</table>
+
+### バージョン
+1.2.2
