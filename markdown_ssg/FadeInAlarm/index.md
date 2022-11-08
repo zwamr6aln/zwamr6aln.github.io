@@ -29,8 +29,6 @@ FadeInAlarm / フェードインアラーム
 - 30分
 - 1時間
 
-<img src="picker480w.png" width="240">
-
 #### フェードアウト時間
 - 3秒
 - 7秒
