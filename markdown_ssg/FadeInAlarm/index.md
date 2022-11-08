@@ -29,7 +29,7 @@ FadeInAlarm / フェードインアラーム
 - 30分
 - 1時間
 
-<img src="FadeInHourPicker480w.png" width="240">
+<img src="picker480w.png" width="240">
 
 #### フェードアウト時間
 - 3秒
@@ -57,7 +57,9 @@ FadeInAlarm / フェードインアラーム
 
 デモビデオ
 ---------------------------------
-[youtube.com/watch?v=d66thA-K5Dg](https://www.youtube.com/watch?v=d66thA-K5Dg)
+<video controls width="240">
+      <source src="preview.mp4" type="video/mp4">
+</video>
 
 ***
 
