@@ -8,11 +8,11 @@ TapTemperature / 体温登録
 =============================
 Apple「ヘルスケア」アプリに体温を最速で登録しよう
 
-<img src="icon.png" width="90">
+<img src="icon.png" width="60">
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1626760566)
 
-<img src="top1200.png" width="600">
+<img src="top1200w.png" width="600">
 
 概要
 -----------------
