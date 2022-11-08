@@ -85,7 +85,3 @@ _2022年09月10日_
 
 ### 1.0
 _2022年09月01日_
-
-ソースコードを公開しています
------------------------
-[github.com/FlipByBlink/](https://github.com/FlipByBlink/)
