@@ -10,11 +10,11 @@ _アプリ名_
 ===========
 _キャッチコピー_
 
-<img src="icon.png" width="90">
+<img src="icon.png" width="80">
 
 [![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/)
 
-<img src="top1200.png" width="600">
+<img src="top1200w.png" width="600">
 
 概要
 ----------
@@ -73,15 +73,5 @@ sear_pandora_0x@icloud.com
 </tr>
 </table>
 
-バージョン履歴
-------------
-### 1.2
-_2022年月日_
-<pre></pre>
-
-### 1.0.1
-_2022年月日_
-<pre></pre>
-
-### 1.0
-_2022年月日_
+### バージョン
+1.3.1
