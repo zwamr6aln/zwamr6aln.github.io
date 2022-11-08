@@ -61,11 +61,20 @@ placeholder
 sear_pandora_0x@icloud.com
 
 ### デベロッパー / パブリッシャー
-#### 組織構成
-個人系
-
-#### 名前
-山下亮(1人のみ)
+<table>
+<tr>
+<td>組織構成</td>
+<td>個人系</td>
+</tr>
+<tr>
+<td>人数</td>
+<td>1名</td>
+</tr>
+<tr>
+<td>名前</td>
+<td>山下亮</td>
+</tr>
+</table>
 
 バージョン履歴
 ------------
