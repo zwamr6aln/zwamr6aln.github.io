@@ -1,14 +1,25 @@
+---
+title: FlipByBlink
+descriptioon: 目を閉じる時間を意識的にわずかに長くさせた瞬きでページめくりできる電子書籍リーダーアプリ
+lang: ja
+---
 
-# FlipByBlink
+FlipByBlink
+==================
+わずかに長い瞬きでページめくりできる電子書籍アプリ
 
-[![AppStore link](App_Store_Badge.svg)](https://apps.apple.com/app/id1444571751)
+<img src="icon.png" width="80">
 
-## 概要
+[![AppStore link](AppStoreバッジ.svg)](https://apps.apple.com/app/id1444571751)
+
+![preview](preview.gif)
+
+概要
+----------
 - シンプルで一般的な電子書籍リーダー(固定レイアウト向け)
 - 特殊な機能は1つだけ。目を閉じる時間を意識的にわずかに長くさせた瞬きでページめくりをします
 - PDFファイルに対応
 - カメラであなたの瞬きを認識
-- 無料、無広告、無トラッキング、非営利
 
 ### 想定対象ユーザー
 固定レイアウト方式の電子書籍を読むすべての人
@@ -21,6 +32,42 @@
 - 身体障害を抱える方の読書
 - など
 
-## サポート言語
+<img src="screenshot1200w.png" width="600">
+
+仕様
+-------
+### 価格
+無料
+
+### アプリ内課金
+なし
+
+### プラットフォーム
+- iOS 14.7 以降
+- iPadOS 14.7 以降
+
+### サポート言語
 - 日本語
 - 英語
+
+### 問い合わせ
+sear_pandora_0x@icloud.com
+
+### デベロッパー / パブリッシャー
+<table>
+<tr>
+<th>組織構成</th>
+<td>個人系</td>
+</tr>
+<tr>
+<th>人数</th>
+<td>1人</td>
+</tr>
+<tr>
+<th>名前</th>
+<td>山下亮</td>
+</tr>
+</table>
+
+### バージョン
+3.0.2
