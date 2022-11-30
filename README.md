@@ -69,19 +69,19 @@ plugins:
 ```
 
 ```
-{%- seo -%}
+{\%- seo -%\}
 ```
 
 ```
 <body>
-{{ content }}
+{\{ content }\}
 </body>
 ```
 
 #### jekyll-seo-tag
 これでtitleとdescriptionは設定される
 ```
-{%- seo -%}
+{\%- seo -%\}
 ```
 
 ### 仕様
