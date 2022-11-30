@@ -24,7 +24,7 @@
 [AppPRPages](https://zwamr6aln.github.io/AppPRPages/)
 
 
-Jekyll vanilla メモ
+Jekyll メモ
 --------------------
 jekyll new PATH
 
@@ -61,4 +61,25 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+```
+
+### default.html
+```
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+```
+
+```
+{%- seo -%}
+```
+
+```
+<body>
+{{ content }}
+</body>
+```
+
+#### jekyll-seo-tag
+これでtitleとdescriptionは設定される
+```
+{%- seo -%}
 ```
