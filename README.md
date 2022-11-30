@@ -22,3 +22,40 @@
 ***
 
 [AppPRPages](https://zwamr6aln.github.io/AppPRPages/)
+
+
+Jekyll メモ
+--------------
+jekyll new PATH
+
+jekyll new PATH --blank
+
+jekyll build
+
+jekyll clean
+
+bundle exec jekyll serve
+
+### markdownファイルにはfront-matterが必要
+> ---
+> title: TITLE
+> description: PLACEHOLDER
+> layout: post
+> published: false
+> ---
+>
+
+### \_config.yml
+```
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+```
+
+```
+plugins:
+  - jekyll-sitemap
+```
