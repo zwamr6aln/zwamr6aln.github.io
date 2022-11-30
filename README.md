@@ -24,8 +24,8 @@
 [AppPRPages](https://zwamr6aln.github.io/AppPRPages/)
 
 
-Jekyll メモ
---------------
+Jekyll vanilla メモ
+--------------------
 jekyll new PATH
 
 jekyll new PATH --blank
@@ -37,13 +37,15 @@ jekyll clean
 bundle exec jekyll serve
 
 ### markdownファイルにはfront-matterが必要
-> ---
-> title: TITLE
-> description: PLACEHOLDER
-> layout: post
-> published: false
-> ---
->
+```
+---
+title: TITLE
+description: PLACEHOLDER
+layout: post
+published: false
+lang: ja
+---
+```
 
 ### \_config.yml
 ```
@@ -57,5 +59,6 @@ defaults:
 
 ```
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
 ```
