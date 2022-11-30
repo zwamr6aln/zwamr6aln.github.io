@@ -83,3 +83,16 @@ plugins:
 ```
 {%- seo -%}
 ```
+
+### 仕様
+> index.htmlかindex.mdと他のHTML、Markdownファイル
+>
+> ファイルにfront matterがある場合、Jekyllによって変換されます。サイトのルートディレクトリまたは上記以外のディレクトリにある.html、.markdown、.mdまたは.textileファイルについても同様です。
+
+> ., _ , # もしくは ~から始まるsourceディレクトリの全てのファイルやディレクトリは、destinationフォルダには含まれません。これらのパスを特別にコピーしたい場合には、設定ファイルのincludeに書き込まなければなりません。
+
+### デフォルトテーマ
+https://github.com/jekyll/minima
+
+### GitHub Pages のデフォルトテーマ
+https://github.com/pages-themes/primer
