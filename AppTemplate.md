@@ -1,3 +1,0 @@
-__AppTemplate__
-
-test
