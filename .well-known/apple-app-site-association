@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118",
-                "paths": [ "/*" ]
+                "paths": [ "/app/*", "/*" ]
             },
             {
                 "appID": "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118.watchkitapp",
-                "paths": [ "/*" ]
+                "paths": [ "/app/*", "/*" ]
             }
         ]
     }
