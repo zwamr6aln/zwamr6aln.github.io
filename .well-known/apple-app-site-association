@@ -1,14 +1,17 @@
 {
     "applinks": {
-        "apps": [],
-        "details": [
+        "appIDs": [
+            "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118",
+            "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118.watchkitapp"
+        ],
+        "components": [
             {
-                "appID": "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118",
-                "paths": [ "/app/*", "/*" ]
+                "/": "/app/*",
+                "comment": "/app/で始まるすべてのURLが一致します。"
             },
             {
-                "appID": "6696GEY228.net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118.watchkitapp",
-                "paths": [ "/app/*", "/*" ]
+                "/": "/*",
+                "comment": "????"
             }
         ]
     }
